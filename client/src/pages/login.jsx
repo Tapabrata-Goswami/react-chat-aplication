@@ -1,10 +1,10 @@
-
+import loginForm from "../components/loginForm/loginForm";
 
 function login(){
     return (
-        <div className>
-
-        </div>
+        <>
+            <loginForm />
+        </>
     );
 }
 
