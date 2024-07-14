@@ -8,12 +8,6 @@ function loginForm(){
             <div className={`card shadow p-3`}>
                 <form>
 
-                    <div className={`form-group`}>
-                        <input type="password" className={`form-control`}/>
-                    </div>
-                    <div>
-                        <button className={`btn btn-primary`}>login</button>
-                    </div>
                 </form>
             </div>
         </div>
